@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Spinach",
+    "category": "leafyGreens"
+  },
+  {
+    "id": 2,
+    "name": "Kale",
+    "category": "leafyGreens"
+  },
+  {
+    "id": 3,
+    "name": "Carrots",
+    "category": "rootVegetables"
+  },
+  {
+    "id": 4,
+    "name": "Potatoes",
+    "category": "rootVegetables"
+  },
+  {
+    "id": 5,
+    "name": "Broccoli",
+    "category": "cruciferous"
+  },
+  {
+    "id": 6,
+    "name": "Cauliflower",
+    "category": "cruciferous"
+  },
+  {
+    "id": 7,
+    "name": "Tomatoes",
+    "category": "nightshades"
+  }
+]
